@@ -1,5 +1,5 @@
 {
-  "name": "ansí-BOT",
+  "name": "WYBIE-BOT",
   "version": "1.0",
   "description": "Bot de whatsapp",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "qr": "node index.js qr",
   "code": "node index.js code",
   "vortexus": "bash vortexus.sh" },
-  "author": "ELIASAR YT",
+  "author": "YOGUI",
   "license": "ISC",
   "dependencies": {
 "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys@6.7.2",
