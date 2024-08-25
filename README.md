@@ -5,7 +5,7 @@
 <a href="#"><img title="ansí-BOT" src="https://qu.ax/XutR.jpg" alt="ansí-BOT" style="width:100%; max-width:400px;"></a>
 </p>
 <p align="center">
-<img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=0000FF&center=true&vCenter=true&lines=Conocerte fue, es y seguirá siendo una de las mejores cosas que me paso en la vida." height="90px">
+<img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=0000FF&center=true&vCenter=true&lines=Eres+y+seguirás+siendo+mi+dulce+niña" height="90px">
 </p>
 
 <p align="centro">
