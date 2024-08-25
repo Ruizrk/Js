@@ -8,12 +8,6 @@
 <img src="http://readme-typing-svg.herokuapp.com?font=mono&size=18&duration=3000&color=0000FF&center=true&vCenter=true&lines=Eres+y+seguirás+siendo+mi+dulce+niña" height="90px">
 </p>
 
-<p align="centro">
-<a href="#"><img title="Supra-BOT" src="https://img.shields.io/badge/SI%20TE%20AGRADA%20EL%20REPOSITORIO%20APOYAME%20CON%20UNA%20%E2%AD%90%20%C2%A1GRACIAS!%20-red?colorA=%23ffff00&colorB=%23ffff00&style=for-the-badge"></a>
-<a href="#"><img title="Eliasar" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%23ffff00&colorB=%23ffff00&style=for-the-badge">
-<div align="centro">
-<a href="https://tinyurl.com/27hyghwa/">
-<img 
 
 [![Enlaces](https://img.shields.io/badge/Encontra_todos_los_enlaces_en_un_único_lugar-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://atom.bio/blogansi)
 </div>
