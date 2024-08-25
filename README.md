@@ -8,8 +8,6 @@
 <img src="http://readme-typing-svg.herokuapp.com?font=mono&size=18&duration=3000&color=0000FF&center=true&vCenter=true&lines=Eres+y+seguirás+siendo+mi+dulce+niña" height="90px">
 </p>
 
-
-
 ## 𝙰𝙲𝚃𝙸𝚅𝙰 𝙴𝙻 𝚃𝙴𝚁𝙼𝚄𝚇
 👇 Pasos para instalar el bot via termux 👇
 
