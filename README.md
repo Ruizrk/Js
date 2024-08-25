@@ -1,4 +1,4 @@
-> <b> Versión 1.2 </b>
+> <b> Bebe y morirás diez años antes, fuma y morirás treinta años antes, ama a alguien que no te ama y morirás diariamente.  </b>
 
 
 <p align="center">
