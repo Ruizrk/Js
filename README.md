@@ -5,7 +5,7 @@
 <a href="#"><img title="ansi-BOT" src="https://qu.ax/XutR.jpg" alt="ansí-BOT" style="width:100%; max-width:400px;"></a>
 </p>
 <p align="center">
-<img src="http://readme-typing-svg.herokuapp.com?font=mono&size=18&duration=7000&color=0000FF&center=true&vCenter=true&lines=Eres+y+seguirás+siendo+mi+dulce+niña+❤️++" height="90px">
+<img src="http://readme-typing-svg.herokuapp.com?font=mono&size=18&duration=7000&color=0000FF&center=true&vCenter=true&lines=Eres+y+seguirás+siendo+mi+dulce+niña+❤️" height="90px">
 </p>
 
 ## 𝙰𝙲𝚃𝙸𝚅𝙰 𝙴𝙻 𝚃𝙴𝚁𝙼𝚄𝚇
