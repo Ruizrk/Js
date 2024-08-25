@@ -12,11 +12,11 @@ global.blockList = []
 
 //---------[ NOMBRE/INFO ]---------
 global.pagina = "atom.bio/blogansi"
-global.botname = "✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨"
-global.wm = '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨'
+global.botname = "✨ 𝐖𝐘𝐁𝐈𝐄 𝐃' 𝐌 ✨"
+global.wm = '✨ ᴡʏʙɪᴇ ✨'
 global.vs = '1.2'
-global.creador = '𝐸𝐿𝐼𝐴𝑆𝐴𝑅 𝑌𝑇'
-global.creador2 = 'ELIASAR YT'
+global.creador = 'YOGUI'
+global.creador2 = 'YOGUI'
 global.name = '𝑪𝑹𝑬𝑨𝑫𝑶𝑹'
 global.nunber = Math.floor(Math.random() * (27 - 18 + 1)) + 18;
 
@@ -82,10 +82,9 @@ global.APIKeys = {
 //---------[ STICKERS ]---------
 global.packname = ""
 global.author = `{
- "bot": "✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨"
-  "autor": "Eliasar YT",
-  "version": "1.2",
-  "creador": "Eliasar YT"
+ "bot": "✨ 𝐖𝐘𝐁𝐈𝐄-𝐁𝐎𝐓 ✨"
+  "autor": "🙃❤️",
+  "creador": "Yogui"
 }
 `
  
@@ -111,27 +110,6 @@ global.imagen5 = fs.readFileSync('./media/menu5.jpg')
 global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 global.verificar = fs.readFileSync('./media/menu2.jpg')
 
-//---------[ ENLACES ]---------
-global.md = 'https://github.com/Eliasar54/ansi-BOT-MD.git'
-global.yt = 'https://www.youtube.com/@Eliasar_yt'
-global.tiktok = 'https://www.tiktok.com/@eliasar_yt?_t=8mjJpoJfOBK&_r=1'
-global.fb = 'https://www.facebook.com/profile.php?id=100087710532984&mibextid=kFxxJD'
-global.faceb = 'https://www.facebook.com/profile.php?id=100087710532984&mibextid=kFxxJD'
-global.paypal = 'https://www.paypal.me/EliasarMoncada72' 
-
-global.host = 'https://chat.whatsapp.com/GQ82mPnSYnm0XL2hLPk7FV' //Infinity-host
-global.nna = 'https://whatsapp.com/channel/0029VadxAUkKLaHjPfS1vP36' //Update 
-global.nn = 'https://chat.whatsapp.com/CPGKvG1sV3v4wOwF6c1UiD' //𝐘𝐮𝐆𝐢-𝐁𝐎𝐓
-global.nn2 = 'https://chat.whatsapp.com/CPGKvG1sV3v4wOwF6c1UiD' //Loli & Nova
-global.nn3 = 'https://chat.whatsapp.com/CPGKvG1sV3v4wOwF6c1UiD' //Grupo de Colaboracion
-global.nn4 = 'https://chat.whatsapp.com/CPGKvG1sV3v4wOwF6c1UiD' // Grupo COL 2
-global.nn5 = 'https://chat.whatsapp.com/CPGKvG1sV3v4wOwF6c1UiD' //Grupo COL 3
-global.nn6 = 'https://chat.whatsapp.com/CPGKvG1sV3v4wOwF6c1UiD' //test
-global.nn7 = 'https://chat.whatsapp.com/CPGKvG1sV3v4wOwF6c1UiD' //Grupo ayuda sobre el bot
-global.nn8 = 'https://chat.whatsapp.com/CPGKvG1sV3v4wOwF6c1UiD' //enlace YuGi-BOT
-global.multi = 'https://chat.whatsapp.com/CBY978TEw5N10tRhQiapZV' //Grupo náufrazapp
-global.nna2 = 'JHnIQUdCGBHHsA6naIGjHG'
-global.n2 = "https://whatsapp.com/channel/0029VadxAUkKLaHjPfS1vP36"
 //---------[ INFO ]--------- 
 global.info = { wait: '*_■■□□□40%_*', 
 waitt: '*_■■■□□60%_*', 
