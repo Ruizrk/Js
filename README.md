@@ -9,11 +9,6 @@
 </p>
 
 
-[![Enlaces](https://img.shields.io/badge/Encontra_todos_los_enlaces_en_un_único_lugar-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://atom.bio/blogansi)
-</div>
-    
-
-
 
 ## 𝙰𝙲𝚃𝙸𝚅𝙰 𝙴𝙻 𝚃𝙴𝚁𝙼𝚄𝚇
 👇 Pasos para instalar el bot via termux 👇
