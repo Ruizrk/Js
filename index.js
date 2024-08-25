@@ -313,8 +313,8 @@ for (let fucker of fuckedcall) {
 if (fucker.isGroup == false) {
 if (fucker.status == "offer") {
 let call = await sock.sendTextWithMentions(fucker.from, `*[ ! ] @${fucker.from.split('@')[0]} ${lenguaje['smscall']()} ${fucker.isVideo ? `videollamadas` : `llamadas` }_\n\n${lenguaje['smscall2']()}\n\n• ${fb}`)
-let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:; Eliasar YT👑;;;\nFN: Eliasar YT\nORG: Eliasar YT👑\nTITLE:\nitem1.TEL;waid=50582340051:+50582340051\nitem1.X-ABLabel:Propietario 👑\nX-WA-BIZ-DESCRIPTION:ᴇsᴄʀɪʙɪ sᴏʟᴏ ᴘᴏʀ ᴄᴏsᴀs ᴅᴇʟ ʙᴏᴛ.\nX-WA-BIZ-NAME:Owner 👑\nEND:VCARD`
-sock.sendMessage(fucker.from, { contacts: { displayName: '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨', contacts: [{ vcard }] }}, {quoted: call, ephemeralExpiration: 24*60*100, disappearingMessagesInChat: 24*60*100})
+let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;👑;;;\nFN:yogui\nORG: 👑\nTITLE:\nitem1.TEL;waid=50582340051:+50582340051\nitem1.X-ABLabel:Propietario 👑\nX-WA-BIZ-DESCRIPTION:ᴇsᴄʀɪʙɪ sᴏʟᴏ ᴘᴏʀ ᴄᴏsᴀs ᴅᴇʟ ʙᴏᴛ.\nX-WA-BIZ-NAME:Owner 👑\nEND:VCARD`
+sock.sendMessage(fucker.from, { contacts: { displayName: '✨ 𝐖𝐘𝐁𝐈𝐄-𝐁𝐎𝐓 ✨', contacts: [{ vcard }] }}, {quoted: call, ephemeralExpiration: 24*60*100, disappearingMessagesInChat: 24*60*100})
 await sleep(8000)
 await sock.updateBlockStatus(fucker.from, "block")
 }}}})
@@ -367,7 +367,7 @@ contextInfo:{
 forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363296103096943@newsletter', 
 serverMessageId: '', 
-newsletterName: '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨' }, 
+newsletterName: '✨ 𝐖𝐘𝐁𝐈𝐄-𝐁𝐎𝐓 ✨' }, 
 forwardingScore: 9999999,  
 isForwarded: true,    
 mentionedJid:[m.sender],  
@@ -394,7 +394,7 @@ contextInfo:{
 forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363296103096943@newsletter', 
 serverMessageId: '', 
-newsletterName: '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨' }, 
+newsletterName: '✨ 𝐖𝐘𝐁𝐈𝐄-𝐁𝐎𝐓 ✨' }, 
 forwardingScore: 9999999,  
 isForwarded: true,   
 mentionedJid:[m.sender],  
@@ -422,7 +422,7 @@ contextInfo:{
 forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363296103096943@newsletter', 
 serverMessageId: '', 
-newsletterName: '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨' }, 
+newsletterName: '✨ 𝐖𝐘𝐁𝐈𝐄-𝐁𝐎𝐓 ✨' }, 
 forwardingScore: 9999999,  
 isForwarded: true,   
 mentionedJid:[m.sender],  
@@ -478,7 +478,7 @@ contextInfo:{
 forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363296103096943@newsletter', 
 serverMessageId: '', 
-newsletterName: '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨' }, 
+newsletterName: '✨ 𝐖𝐘𝐁𝐈𝐄-𝐁𝐎𝐓 ✨' }, 
 forwardingScore: 9999999,  
 isForwarded: true,   
 mentionedJid:[m.sender],  
@@ -535,7 +535,7 @@ sock.sendMessage(anu.id, { audio: { url: vn },
 contextInfo: { forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363296103096943@newsletter', 
 serverMessageId: '', 
-newsletterName: '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨' }, forwardingScore: 9999999, isForwarded: true, mentionedJid:[num], "externalAdReply": { 
+newsletterName: '✨ 𝐖𝐘𝐁𝐈𝐄-𝐁𝐎𝐓 ✨' }, forwardingScore: 9999999, isForwarded: true, mentionedJid:[num], "externalAdReply": { 
 "title": `乂 ＷＥＬＣＯＭＥ 乂`, 
 "body": `${name.split("@")[0]}`, 
 "previewType": "PHOTO", 
@@ -549,7 +549,7 @@ sock.sendMessage(anu.id, { text: `${lenguaje['smsWel7']()} ${lenguaje['smsWel'](
 forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363296103096943@newsletter', 
 serverMessageId: '', 
-newsletterName: '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨' }, 
+newsletterName: '✨ 𝐖𝐘𝐁𝐈𝐄-𝐁𝐎𝐓 ✨' }, 
 forwardingScore: 9999999,
 isForwarded: true, 
 mentionedJid:[num],
@@ -579,7 +579,7 @@ contextInfo:{
 forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363296103096943@newsletter', 
 serverMessageId: '', 
-newsletterName: '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨' }, 
+newsletterName: '✨ 𝐖𝐘𝐁𝐈𝐄-𝐁𝐎𝐓 ✨' }, 
 forwardingScore: 9999999,
 isForwarded: true,  
 mentionedJid:[num],
@@ -605,7 +605,7 @@ sock.sendMessage(anu.id, { text: `${pickRandom(['[ NUEVO ADMINS ]\n\n', 'Hey'])}
  forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363296103096943@newsletter', 
 serverMessageId: '', 
-newsletterName: '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨' }, 
+newsletterName: '✨ 𝐖𝐘𝐁𝐈𝐄-𝐁𝐎𝐓 ✨' }, 
 forwardingScore: 9999999,
 isForwarded: true, 
  mentionedJid: [num, usuario],
@@ -626,7 +626,7 @@ sock.sendMessage(anu.id, { text: `@${name.split("@")[0]} ${pickRandom(['Joderte 
  forwardedNewsletterMessageInfo: { 
 newsletterJid: '120363296103096943@newsletter', 
 serverMessageId: '', 
-newsletterName: '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨' }, 
+newsletterName: '✨ 𝐖𝐘𝐁𝐈𝐄-𝐁𝐎𝐓 ✨' }, 
 forwardingScore: 9999999,
 isForwarded: true, 
  mentionedJid:[num, usuario],
