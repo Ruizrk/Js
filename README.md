@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="#"><img title="Marilia-BOT" src="https://qu.ax/XutR.jpg" alt="ansí-BOT" style="width:100%; max-width:400px;"></a>
+<a href="#"><img title="ansi-BOT" src="https://qu.ax/XutR.jpg" alt="ansí-BOT" style="width:100%; max-width:400px;"></a>
 </p>
 <p align="center">
 <img src="http://readme-typing-svg.herokuapp.com?font=mono&size=18&duration=3000&color=0000FF&center=true&vCenter=true&lines=Eres+y+seguirás+siendo+mi+dulce+niña" height="90px">
@@ -11,8 +11,6 @@
 ## 𝙰𝙲𝚃𝙸𝚅𝙰 𝙴𝙻 𝚃𝙴𝚁𝙼𝚄𝚇
 👇 Pasos para instalar el bot via termux 👇
 
-[![blog](https://img.shields.io/badge/Video-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://www.youtube.com/@EliasarYT)
 
 [`💫 Instalar termux clic aqui`](https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file)
 
