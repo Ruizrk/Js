@@ -5,7 +5,7 @@
 <a href="#"><img title="ansí-BOT" src="https://qu.ax/XutR.jpg" alt="ansí-BOT" style="width:100%; max-width:400px;"></a>
 </p>
 <p align="center">
-<img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=0000FF&center=true&vCenter=true&lines=Eres+y+seguirás+siendo+mi+dulce+niña" height="90px">
+<img src="http://readme-typing-svg.herokuapp.com?font=mono&size=18&duration=3000&color=0000FF&center=true&vCenter=true&lines=Eres+y+seguirás+siendo+mi+dulce+niña" height="90px">
 </p>
 
 <p align="centro">
@@ -13,11 +13,7 @@
 <a href="#"><img title="Eliasar" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%23ffff00&colorB=%23ffff00&style=for-the-badge">
 <div align="centro">
 <a href="https://tinyurl.com/27hyghwa/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-<a href="https://www.youtube.com/@EliasarYT">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
+<img 
 
 [![Enlaces](https://img.shields.io/badge/Encontra_todos_los_enlaces_en_un_único_lugar-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://atom.bio/blogansi)
 </div>
