@@ -129,11 +129,11 @@ echo -e "\033[01;32m\033[01m\nTodas las dependencias se han instalado correctame
 echo -e "\e[35mＩＮＳＴＡＬＡＮＤＯ ＧＩＴ ＣＬＯＮＥ\n\e[0m"
 
 echo -e "\033[1;35m"
-git clone https://github.com/elrebelde21/NovaBot-MD.git
+git clone https://github.com/Ruizrk/RK.git
 echo -e "\033[01;32m\033[01mLa clonación se ha descargado e instalado correctamente.\n\033[0m"
 
 echo -e "\033[01;32m\033[01mCambiando al directorio del repositorio!!\n\033[0m" 
-cd NovaBot-MD
+cd Js
 
 echo -e "\e[36m
 █ █▄░█ █▀ ▀█▀ ▄▀█ █░ █░
